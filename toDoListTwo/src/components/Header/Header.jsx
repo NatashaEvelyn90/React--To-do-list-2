@@ -3,10 +3,10 @@
 function Header() {
 
     return(
-        <section>
+        <section role="banner">
             <div className="row">
-                <div className="col-12">
-                    <h1 className="text-center">Tasha's To-Do List</h1>
+                <div className="col-12 text-center">
+                    <h1>Tasha's To-Do List</h1>
                 </div>
             </div>
         </section>
